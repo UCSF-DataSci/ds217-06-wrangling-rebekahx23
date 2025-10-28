@@ -184,8 +184,8 @@ Open `assignment.ipynb` and work through the three questions. The notebook provi
 
 Before submitting, verify you've created:
 
-- [ ] `output/q1_merged_data.csv` - Merged customer/product/purchase data
-- [ ] `output/q1_validation.txt` - Merge validation report
-- [ ] `output/q2_combined_data.csv` - Concatenated data with metrics
-- [ ] `output/q3_category_sales_wide.csv` - Pivoted category sales
-- [ ] `output/q3_analysis_report.txt` - Sales analysis report
+- [X] `output/q1_merged_data.csv` - Merged customer/product/purchase data
+- [X] `output/q1_validation.txt` - Merge validation report
+- [X] `output/q2_combined_data.csv` - Concatenated data with metrics
+- [X] `output/q3_category_sales_wide.csv` - Pivoted category sales
+- [X] `output/q3_analysis_report.txt` - Sales analysis report
